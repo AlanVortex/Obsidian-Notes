@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f728c589b4291717",
+        "id": "95209d96ad77a177",
         "type": "tabs",
         "children": [
           {
-            "id": "9b054668066f454e",
+            "id": "850b6d5f0c0eb993",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hugo - Extracción de Conocimiento en BD´s/U1/Comandos CONDA.md",
+                "file": "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos CONDA"
-            }
-          },
-          {
-            "id": "96603c643eeb5878",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20250514195351.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250514195351"
+              "title": "Introducción"
             }
           }
         ]
@@ -177,10 +165,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b054668066f454e",
+  "active": "5dd29e4270ee98bc",
   "lastOpenFiles": [
+    "Assets/Pasted image 20250519120942.png",
+    "Yazbeck - Desarrollo Web Integral/UI -/Metodologías para el desarrollo de software.md",
+    "Yazbeck - Desarrollo Web Integral/UI -/Introducción.md",
+    "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
+    "Yazbeck - Desarrollo Web Integral/UI -",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI",
+    "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos",
+    "Mireles - Desarrollo para Dispositivos Inteligentes/Untitled.md",
+    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -",
+    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -.md",
+    "Yazbeck - Desarrollo Web Integral/UI -.md",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI.md",
+    "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos.md",
+    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
+    "Hugo - Extracción de Conocimiento en BD´s/UI -/Tipos de condiciones.md",
+    "Hugo - Extracción de Conocimiento en BD´s/UI -/Comandos CONDA.md",
     "Assets/Pasted image 20250514195351.png",
-    "Hugo - Extracción de Conocimiento en BD´s/U1/Comandos CONDA.md",
     "Assets/Pasted image 20250514195411.png",
     "Assets",
     "Assets/Pasted image 20250514202543.png",
@@ -191,20 +194,18 @@
     "Pasted image 20250514195631.png",
     "Pasted image 20250514195630.png",
     "Pasted image 20250514195343.png",
-    "Hugo - Extracción de Conocimiento en BD´s/U1/CRISP-DM.md",
-    "Hugo - Extracción de Conocimiento en BD´s/U1/Comparación.md",
+    "Hugo - Extracción de Conocimiento en BD´s/UI -/CRISP-DM.md",
+    "Hugo - Extracción de Conocimiento en BD´s/UI -/Comparación.md",
     "Hugo - Extracción de Conocimiento en BD´s/Comparación.md",
-    "Hugo - Extracción de Conocimiento en BD´s/U1/SEMMA.md",
-    "Hugo - Extracción de Conocimiento en BD´s/U1/KDD.md",
-    "Hugo - Extracción de Conocimiento en BD´s/U1",
+    "Hugo - Extracción de Conocimiento en BD´s/UI -/SEMMA.md",
+    "Hugo - Extracción de Conocimiento en BD´s/UI -/KDD.md",
+    "Hugo - Extracción de Conocimiento en BD´s/UI -",
     "Hugo - Extracción de Conocimiento en BD´s/Nueva carpeta",
-    "Hugo - Extracción de Conocimiento en BD´s/U2",
+    "Hugo - Extracción de Conocimiento en BD´s/UII -",
     "Hugo - Extracción de Conocimiento en BD´s/KDD.md",
     "Hugo - Extracción de Conocimiento en BD´s/CRISP-DM.md",
     "Mireles - Desarrollo para Dispositivos Inteligentes",
     "Nelida - Administración de Proyectos de TI",
-    "Hugo - Extracción de Conocimiento en BD´s/SEMMA.md",
-    "Yazbeck - Desarrollo Web Integral",
-    "Hugo - Extracción de Conocimiento en BD´s"
+    "Hugo - Extracción de Conocimiento en BD´s/SEMMA.md"
   ]
 }
