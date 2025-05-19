@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
+                "file": "Yazbeck - Desarrollo Web Integral/UI -/Scrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción"
+              "title": "Scrum"
             }
           }
         ]
@@ -165,11 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dd29e4270ee98bc",
+  "active": "850b6d5f0c0eb993",
   "lastOpenFiles": [
-    "Assets/Pasted image 20250519120942.png",
     "Yazbeck - Desarrollo Web Integral/UI -/Metodologías para el desarrollo de software.md",
+    "Yazbeck - Desarrollo Web Integral/UI -/Scrum.md",
     "Yazbeck - Desarrollo Web Integral/UI -/Introducción.md",
+    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
+    "Assets/Pasted image 20250519120942.png",
     "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
     "Yazbeck - Desarrollo Web Integral/UI -",
     "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI",
@@ -180,7 +182,6 @@
     "Yazbeck - Desarrollo Web Integral/UI -.md",
     "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI.md",
     "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos.md",
-    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/Tipos de condiciones.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/Comandos CONDA.md",
     "Assets/Pasted image 20250514195351.png",
@@ -193,7 +194,6 @@
     "Assets/Pasted image 20250514200935.png",
     "Pasted image 20250514195631.png",
     "Pasted image 20250514195630.png",
-    "Pasted image 20250514195343.png",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/CRISP-DM.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/Comparación.md",
     "Hugo - Extracción de Conocimiento en BD´s/Comparación.md",
