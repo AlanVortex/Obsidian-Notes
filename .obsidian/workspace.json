@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazbeck - Desarrollo Web Integral/UI -/Guía.md",
+                "file": "Hugo - Extracción de Conocimiento en BD´s/UI -/Tipos de condiciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guía"
+              "title": "Tipos de condiciones"
             }
           }
         ]
@@ -165,14 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "850b6d5f0c0eb993",
+  "active": "5dd29e4270ee98bc",
   "lastOpenFiles": [
-    "Yazbeck - Desarrollo Web Integral/UI -/Metodologías para el desarrollo de software.md",
+    "Assets/Pasted image 20250521193005.png",
+    "Assets/Pasted image 20250521192816.png",
+    "Assets/Pasted image 20250521192645.png",
+    "Yazbeck - Desarrollo Web Integral/UI -/Introducción.md",
     "Yazbeck - Desarrollo Web Integral/UI -/Guía.md",
+    "Yazbeck - Desarrollo Web Integral/UI -/Metodologías para el desarrollo de software.md",
     "Assets/Pasted image 20250520113158.png",
     "Assets/Pasted image 20250520113140.png",
     "Yazbeck - Desarrollo Web Integral/UI -/Scrum.md",
-    "Yazbeck - Desarrollo Web Integral/UI -/Introducción.md",
     "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
     "Assets/Pasted image 20250519120942.png",
     "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
@@ -193,8 +196,6 @@
     "Assets/Pasted image 20250514202543.png",
     "Assets/Pasted image 20250514202417.png",
     "Assets/Pasted image 20250514202007.png",
-    "Assets/Pasted image 20250514201400.png",
-    "Assets/Pasted image 20250514200935.png",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/CRISP-DM.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/Comparación.md",
     "Hugo - Extracción de Conocimiento en BD´s/Comparación.md",
