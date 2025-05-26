@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95209d96ad77a177",
+        "id": "003205a5bd27f375",
         "type": "tabs",
         "children": [
           {
-            "id": "850b6d5f0c0eb993",
+            "id": "9b8128cc966001fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hugo - Extracción de Conocimiento en BD´s/UI -/Conjunto de Datos.md",
+                "file": "Yazbeck - Desarrollo Web Integral/UII - Control de versiones/Convenciones en Nomenclaturas de Commit´s.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conjunto de Datos"
+              "title": "Convenciones en Nomenclaturas de Commit´s"
             }
           }
         ]
@@ -165,23 +165,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "850b6d5f0c0eb993",
+  "active": "9b8128cc966001fe",
   "lastOpenFiles": [
+    "Yazbeck - Desarrollo Web Integral/UII - Control de versiones/Git y Flujos de Trabajo.md",
+    "Yazbeck - Desarrollo Web Integral/UII - Control de versiones/Convenciones en Nomenclaturas de Commit´s.md",
+    "Yazbeck - Desarrollo Web Integral/UI -/Guía.md",
+    "Yazbeck - Desarrollo Web Integral/UII - Control de versiones/Git - Definición, Comandos, y Diferencias entre los Clientes.md",
+    "Yazbeck - Desarrollo Web Integral/UII - Control de versiones/Control de Versiones.md",
+    "Yazbeck - Desarrollo Web Integral/UI -/Patrones de desarrollo de software.md",
+    "Yazbeck - Desarrollo Web Integral/UII - Control de versiones",
+    "Pasted image 20250526151912.png",
+    "Pasted image 20250526151855.png",
+    "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
+    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
+    "Hugo - Extracción de Conocimiento en BD´s/UI -/Conjunto de Datos.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/Tipos de condiciones.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/CRISP-DM.md",
-    "Hugo - Extracción de Conocimiento en BD´s/UI -/Conjunto de Datos.md",
     "Assets/Pasted image 20250521193005.png",
     "Assets/Pasted image 20250521192816.png",
     "Assets/Pasted image 20250521192645.png",
     "Yazbeck - Desarrollo Web Integral/UI -/Introducción.md",
-    "Yazbeck - Desarrollo Web Integral/UI -/Guía.md",
     "Yazbeck - Desarrollo Web Integral/UI -/Metodologías para el desarrollo de software.md",
     "Assets/Pasted image 20250520113158.png",
     "Assets/Pasted image 20250520113140.png",
     "Yazbeck - Desarrollo Web Integral/UI -/Scrum.md",
-    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
     "Assets/Pasted image 20250519120942.png",
-    "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
     "Yazbeck - Desarrollo Web Integral/UI -",
     "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI",
     "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos",
@@ -195,8 +203,6 @@
     "Assets/Pasted image 20250514195351.png",
     "Assets/Pasted image 20250514195411.png",
     "Assets",
-    "Assets/Pasted image 20250514202543.png",
-    "Assets/Pasted image 20250514202417.png",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/Comparación.md",
     "Hugo - Extracción de Conocimiento en BD´s/Comparación.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/SEMMA.md",
@@ -206,8 +212,6 @@
     "Hugo - Extracción de Conocimiento en BD´s/UII -",
     "Hugo - Extracción de Conocimiento en BD´s/KDD.md",
     "Hugo - Extracción de Conocimiento en BD´s/CRISP-DM.md",
-    "Mireles - Desarrollo para Dispositivos Inteligentes",
-    "Nelida - Administración de Proyectos de TI",
-    "Hugo - Extracción de Conocimiento en BD´s/SEMMA.md"
+    "Mireles - Desarrollo para Dispositivos Inteligentes"
   ]
 }
