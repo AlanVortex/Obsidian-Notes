@@ -22,7 +22,7 @@ conda deactivate
 conda env remove --name nombre_entorno
 
 # Instalar JupyterLab y Jupyter Notebook en el entorno activo
-conda install jupyterlab notebook
+	conda install jupyterlab notebook
 
 # Abrir jupyter
 jupyter notebook
