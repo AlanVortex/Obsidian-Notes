@@ -58,6 +58,23 @@
 
 ---
 
+### ⚠️ Exception Control
+
+- NO muestres errores técnicos al usuario final.
+- Usa logs seguros sin mostrar datos sensibles.
+- Trata de continuar de forma segura o detenerse sin comprometer el sistema.
+- Maneja de manera segura **stack traces**, **SQL** y **rutas**.
+
+---
+
+### 🔄 Dependency Improvement
+
+- ¡Mantén tus dependencias al día!
+- Usa herramientas como `npm audit`, **OWASP Dependency-Check**, **Snyk**, etc.
+- El software desactualizado puede tener **vulnerabilidades conocidas**.
+
+---
+
 ### ✅ Authentication & Authorization
 
 - Siempre verifica que el usuario tenga permisos para realizar una acción.
@@ -79,23 +96,6 @@
 - Escapa adecuadamente fragmentos de **código** y **comandos** para evitar ataques.
 - Usa **consultas parametrizadas/preparadas** para evitar **SQL injection**.
 - Escapa **XML, HTML, comandos de SHELL** para evitar **XSS o Command Injection**.
-
----
-
-### ⚠️ Exception Control
-
-- NO muestres errores técnicos al usuario final.
-- Usa logs seguros sin mostrar datos sensibles.
-- Trata de continuar de forma segura o detenerse sin comprometer el sistema.
-- Maneja de manera segura **stack traces**, **SQL** y **rutas**.
-
----
-
-### 🔄 Dependency Improvement
-
-- ¡Mantén tus dependencias al día!
-- Usa herramientas como `npm audit`, **OWASP Dependency-Check**, **Snyk**, etc.
-- El software desactualizado puede tener **vulnerabilidades conocidas**.
 
 ---
 

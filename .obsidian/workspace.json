@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazbeck - Desarrollo Web Integral/UIII -/Medidas de Seguridad (Principios Fundamentales y Detección de Vulnerabilidades).md",
+                "file": "Hugo - Extracción de Conocimiento en BD´s/UIII -/Análisis supervisado (Interacción Humana).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medidas de Seguridad (Principios Fundamentales y Detección de Vulnerabilidades)"
+              "title": "Análisis supervisado (Interacción Humana)"
             }
           }
         ]
@@ -165,13 +165,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a90963527a722a09",
+  "active": "5dd29e4270ee98bc",
   "lastOpenFiles": [
-    "Yazbeck - Desarrollo Web Integral/UIII -/Principios SOLID.md",
+    "mapa_interesados_utez_etiquetado.png",
+    "Hugo - Extracción de Conocimiento en BD´s/UIII -/Análisis supervisado (Interacción Humana).md",
+    "Assets/Imagen de WhatsApp 2025-06-25 a las 19.55.08_0c06b88b.jpg",
+    "Hugo - Extracción de Conocimiento en BD´s/UII -/Comandos CONDA.md",
+    "Hugo - Extracción de Conocimiento en BD´s/UIII -",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Conclusión.md",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Inicio.md",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Ejecución.md",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/PMBOK.md",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Planeación.md",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Monitoreo y Control.md",
+    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/INTEGRADORA - MAPA DE INTERESADOS.md",
+    "Pasted image 20250623163312.png",
+    "Pasted image 20250623130939.png",
+    "Pasted image 20250619174904.png",
+    "Assets/Pasted image 20250619174237.png",
+    "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
     "Yazbeck - Desarrollo Web Integral/UIII -/Medidas de Seguridad (Principios Fundamentales y Detección de Vulnerabilidades).md",
     "Yazbeck - Desarrollo Web Integral/UIII -/Principios solid Introducción (ChatGPT).md",
+    "Yazbeck - Desarrollo Web Integral/UIII -/Principios SOLID.md",
     "Yazbeck - Desarrollo Web Integral/UIII -",
-    "Hugo - Extracción de Conocimiento en BD´s/UI -/Comandos CONDA.md",
     "Yazbeck - Desarrollo Web Integral/UI -/Patrones de desarrollo de software.md",
     "Yazbeck - Desarrollo Web Integral/UI -/Scrum.md",
     "Yazbeck - Desarrollo Web Integral/UI -/Guía.md",
@@ -185,33 +201,16 @@
     "Hugo - Extracción de Conocimiento en BD´s/UI -/KDD.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/CRISP-DM.md",
     "Hugo - Extracción de Conocimiento en BD´s/UI -/Conjunto de Datos.md",
-    "Hugo - Extracción de Conocimiento en BD´s/UI -/Comparación.md",
     "Yazbeck - Desarrollo Web Integral/UII - Control de versiones",
     "Pasted image 20250526151912.png",
     "Pasted image 20250526151855.png",
-    "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
-    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -/Introducción.md",
     "Assets/Pasted image 20250521193005.png",
     "Assets/Pasted image 20250521192816.png",
-    "Assets/Pasted image 20250521192645.png",
-    "Yazbeck - Desarrollo Web Integral/UI -/Introducción.md",
-    "Yazbeck - Desarrollo Web Integral/UI -/Metodologías para el desarrollo de software.md",
-    "Assets/Pasted image 20250520113158.png",
-    "Assets/Pasted image 20250520113140.png",
-    "Assets/Pasted image 20250519120942.png",
     "Yazbeck - Desarrollo Web Integral/UI -",
     "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI",
     "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos",
-    "Mireles - Desarrollo para Dispositivos Inteligentes/Untitled.md",
     "Mireles - Desarrollo para Dispositivos Inteligentes/UI -",
-    "Mireles - Desarrollo para Dispositivos Inteligentes/UI -.md",
-    "Yazbeck - Desarrollo Web Integral/UI -.md",
-    "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI.md",
-    "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos.md",
-    "Assets/Pasted image 20250514195351.png",
-    "Assets/Pasted image 20250514195411.png",
     "Assets",
-    "Hugo - Extracción de Conocimiento en BD´s/UI -",
-    "Hugo - Extracción de Conocimiento en BD´s/Nueva carpeta"
+    "Hugo - Extracción de Conocimiento en BD´s/UI -"
   ]
 }
