@@ -27,3 +27,24 @@ Se encarga del mapeo de entradas en salidas con  base en datos de entrenamiento 
 
 ---
 
+#### Regresión
+
+Es un método estadístico realizado para estimar el nivel del efecto de una *variable independiente* (x) sobre una *variable dependiente* (y).
+
+- Se usa para comprender o describir la relación entre un conjunto de variables independientes y dependientes (función).
+
+>*Las variables dependientes siempre van a ser 1 en una función.
+
+---
+
+Existen distintos tipos de regresión, dependiendo de los datos utilizados:
+
+![[Imagen de WhatsApp 2025-06-25 a las 20.11.50_e4d8a446.jpg]]
+
+---
+
+### Regresión Lineal
+
+- Es una técnica de análisis supervisado que se encarga de la regresión entre variables dependientes e independientes cuando muestran una *relación lineal.*
+- En otras palabras: *¿Cómo se incrementa/decrementa y cuando varían los valores de x?*
+
