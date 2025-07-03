@@ -24,6 +24,8 @@ Se encarga del mapeo de entradas en salidas con  base en datos de entrenamiento 
 - Los algoritmos se dividen en regresión y clasificación:
 	- Cuando se habla de *variables continuas, usamos regresión*.
 	- Para *variables discretas, usamos la clasificación*.
+ 
+>Una **variable continua** es aquella que puede tomar **cualquier valor dentro de un intervalo específico**. Por ejemplo: Altura y Peso son continuas.
 
 ---
 
@@ -47,4 +49,6 @@ Existen distintos tipos de regresión, dependiendo de los datos utilizados:
 
 - Es una técnica de análisis supervisado que se encarga de la regresión entre variables dependientes e independientes cuando muestran una *relación lineal.*
 - En otras palabras: *¿Cómo se incrementa/decrementa y cuando varían los valores de x?*
+
+### Regresión Polinomial
 
