@@ -1,0 +1,1 @@
+Llenar con las fotos que tome de whatsapp
