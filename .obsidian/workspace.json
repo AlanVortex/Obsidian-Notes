@@ -27,24 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10/Eliel/UI/Objetivo y Competencias.md",
+                "file": "10/Yazbeck/UI/Introducción a DevOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objetivo y Competencias"
-            }
-          },
-          {
-            "id": "975dc9ae443cfbad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "title": "Introducción a DevOps"
             }
           }
         ],
@@ -195,6 +183,11 @@
   },
   "active": "5dd29e4270ee98bc",
   "lastOpenFiles": [
+    "Assets/Pasted image 20250903150335.png",
+    "10/Eliel/UI/Objetivo y Competencias.md",
+    "10/Yazbeck/UI/Introducción a DevOps.md",
+    "10/Yazbeck/UI",
+    "10/Yazbeck",
     "9",
     "10",
     "ClockBack/target/classes/com/sivra/security/JwtAuthenticationEntryPoint.class",
@@ -203,11 +196,7 @@
     "ClockBack/target/classes/com/sivra/service/VoteService$1.class",
     "ClockBack/target/classes/com/sivra/dto/VoteRequest.class",
     "ClockBack/target/classes/com/sivra/service/VerificationService.class",
-    "ClockBack/target/classes/com/sivra/service/UserService.class",
-    "ClockBack/target/classes/com/sivra/service/QuestionService.class",
-    "ClockBack/target/classes/com/sivra/service/QRCodeService.class",
     "9/Hugo - Extracción de Conocimiento en BD´s/UIII -/Estudio.md",
-    "10/Eliel/UI/Objetivo y Competencias.md",
     "9/Hugo - Extracción de Conocimiento en BD´s/UIII -/Análisis supervisado (Interacción Humana).md",
     "9/Hugo - Extracción de Conocimiento en BD´s/UII -/Comandos CONDA.md",
     "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Tablas de Riesgos Proyecto Integrador.md",
@@ -239,7 +228,6 @@
     "Pasted image 20250619174904.png",
     "Assets/Pasted image 20250619174237.png",
     "9/Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
-    "9/Yazbeck - Desarrollo Web Integral/UIII -/Medidas de Seguridad (Principios Fundamentales y Detección de Vulnerabilidades).md",
-    "9/Yazbeck - Desarrollo Web Integral/UIII -/Principios solid Introducción (ChatGPT).md"
+    "9/Yazbeck - Desarrollo Web Integral/UIII -/Medidas de Seguridad (Principios Fundamentales y Detección de Vulnerabilidades).md"
   ]
 }
