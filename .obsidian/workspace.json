@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hugo - Extracción de Conocimiento en BD´s/UIII -/Estudio.md",
+                "file": "Eliel/UI/Objetivo y Competencias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estudio"
+              "title": "Objetivo y Competencias"
+            }
+          },
+          {
+            "id": "975dc9ae443cfbad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
         ],
@@ -172,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,8 +195,11 @@
   },
   "active": "a90963527a722a09",
   "lastOpenFiles": [
-    "Hugo - Extracción de Conocimiento en BD´s/UIII -/Análisis supervisado (Interacción Humana).md",
     "Hugo - Extracción de Conocimiento en BD´s/UIII -/Estudio.md",
+    "Eliel/UI/Objetivo y Competencias.md",
+    "Eliel/UI",
+    "Eliel",
+    "Hugo - Extracción de Conocimiento en BD´s/UIII -/Análisis supervisado (Interacción Humana).md",
     "Hugo - Extracción de Conocimiento en BD´s/UII -/Comandos CONDA.md",
     "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Tablas de Riesgos Proyecto Integrador.md",
     "Hugo - Extracción de Conocimiento en BD´s/UII -/Acordeón.md",
@@ -219,14 +235,11 @@
     "Yazbeck - Desarrollo Web Integral/UIII -/Principios solid Introducción (ChatGPT).md",
     "Yazbeck - Desarrollo Web Integral/UIII -/Principios SOLID.md",
     "Yazbeck - Desarrollo Web Integral/UIII -",
-    "Yazbeck - Desarrollo Web Integral/UI -/Patrones de desarrollo de software.md",
-    "Untitled",
     "Yazbeck - Desarrollo Web Integral/UII - Control de versiones",
     "Yazbeck - Desarrollo Web Integral/UI -",
     "Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI",
     "Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos",
     "Mireles - Desarrollo para Dispositivos Inteligentes/UI -",
-    "Assets",
-    "Hugo - Extracción de Conocimiento en BD´s/UI -"
+    "Assets"
   ]
 }
