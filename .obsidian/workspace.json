@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "379e61143408b840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hugo - Extracción de Conocimiento en BD´s/UIII -/Análisis supervisado (Interacción Humana).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Análisis supervisado (Interacción Humana)"
-            }
-          },
-          {
             "id": "a90963527a722a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10/Yazbeck/UI/Introducción a DevOps.md",
+                "file": "10/Narvaez/UI/Conceptos y Características.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción a DevOps"
+              "title": "Conceptos y Características"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,11 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dd29e4270ee98bc",
+  "active": "a90963527a722a09",
   "lastOpenFiles": [
+    "10/Narvaez/UI/Conceptos y Características.md",
+    "10/Yazbeck/UI/Introducción a DevOps.md",
+    "10/Narvaez/UI",
+    "10/Narvaez",
     "Assets/Pasted image 20250903150335.png",
     "10/Eliel/UI/Objetivo y Competencias.md",
-    "10/Yazbeck/UI/Introducción a DevOps.md",
     "10/Yazbeck/UI",
     "10/Yazbeck",
     "9",
@@ -194,8 +182,6 @@
     "ClockBack/target/classes/com/sivra/service/VotingSessionService.class",
     "ClockBack/target/classes/com/sivra/service/VoteService.class",
     "ClockBack/target/classes/com/sivra/service/VoteService$1.class",
-    "ClockBack/target/classes/com/sivra/dto/VoteRequest.class",
-    "ClockBack/target/classes/com/sivra/service/VerificationService.class",
     "9/Hugo - Extracción de Conocimiento en BD´s/UIII -/Estudio.md",
     "9/Hugo - Extracción de Conocimiento en BD´s/UIII -/Análisis supervisado (Interacción Humana).md",
     "9/Hugo - Extracción de Conocimiento en BD´s/UII -/Comandos CONDA.md",
@@ -226,7 +212,6 @@
     "Pasted image 20250623163312.png",
     "Pasted image 20250623130939.png",
     "Pasted image 20250619174904.png",
-    "Assets/Pasted image 20250619174237.png",
     "9/Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
     "9/Yazbeck - Desarrollo Web Integral/UIII -/Medidas de Seguridad (Principios Fundamentales y Detección de Vulnerabilidades).md"
   ]
