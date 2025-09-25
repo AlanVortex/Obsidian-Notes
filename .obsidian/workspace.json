@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c4a62ca1c554ff14",
+        "id": "86c080e5c03916d2",
         "type": "tabs",
         "children": [
           {
-            "id": "a90963527a722a09",
+            "id": "3f23c037793e7586",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10/Narvaez/UI/Conceptos y Características.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Conceptos y Características"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a90963527a722a09",
+  "active": "3f23c037793e7586",
   "lastOpenFiles": [
+    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Fase de monitoreo y control.md",
+    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Fase de Ejecución.md",
+    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Fase de Inicio.md",
+    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/PMBOK.md",
+    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Riesgos.md",
+    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Tablas de Riesgos Proyecto Integrador.md",
+    "10/Yazbeck/UI/DevOps.md",
     "10/Narvaez/UI/Conceptos y Características.md",
     "10/Yazbeck/UI/Introducción a DevOps.md",
     "10/Narvaez/UI",
@@ -185,13 +188,7 @@
     "9/Hugo - Extracción de Conocimiento en BD´s/UIII -/Estudio.md",
     "9/Hugo - Extracción de Conocimiento en BD´s/UIII -/Análisis supervisado (Interacción Humana).md",
     "9/Hugo - Extracción de Conocimiento en BD´s/UII -/Comandos CONDA.md",
-    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Tablas de Riesgos Proyecto Integrador.md",
     "9/Hugo - Extracción de Conocimiento en BD´s/UII -/Acordeón.md",
-    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Fase de monitoreo y control.md",
-    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Fase de Ejecución.md",
-    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Fase de Inicio.md",
-    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/PMBOK.md",
-    "9/Nelida - Administración de Proyectos de TI/UII - Proceso de administración de proyectos de TI/Riesgos.md",
     "9/Hugo - Extracción de Conocimiento en BD´s/UII -/Regresion en pandas.md",
     "Untitled.md",
     "Yazbeck - Desarrollo Web Integral/UIII -/Acordeon JWT.md",
@@ -212,7 +209,6 @@
     "Pasted image 20250623163312.png",
     "Pasted image 20250623130939.png",
     "Pasted image 20250619174904.png",
-    "9/Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md",
-    "9/Yazbeck - Desarrollo Web Integral/UIII -/Medidas de Seguridad (Principios Fundamentales y Detección de Vulnerabilidades).md"
+    "9/Nelida - Administración de Proyectos de TI/UI - Herramientas para la administración de Proyectos/Introducción a Conceptos.md"
   ]
 }
